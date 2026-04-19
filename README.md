@@ -1,6 +1,9 @@
 # Smart Algorithm Comparator
 A Flask web app that benchmarks sorting & searching algorithms in real-time to demonstrate time complexity impact on AI/ML data pipelines.
 
+###Live Demo
+ https://ai-project-2-007z.onrender.com
+ Note: Free Reminder instance sleeps after 15 min.First load ~50 seconds.
 ### Tech Stack
 Python,Flask,Javascript,HTML,CSS
 
@@ -12,6 +15,4 @@ Python,Flask,Javascript,HTML,CSS
 _Rest API backend with input validation & error handling
 
 ###Run Locally
-```bash
-pip install flask
-python app.py
+
